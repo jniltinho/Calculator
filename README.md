@@ -13,3 +13,4 @@ The tutorial is available (here)[]
 - https://www.youtube.com/watch?v=Ck919fGGbCw
 - https://betterprogramming.pub/simple-api-in-go-with-fiber-1449198e0237
 - https://github.com/hellokvn/go-fiber-api
+- https://github.com/BrosSquad/GoFiber-Boilerplate
