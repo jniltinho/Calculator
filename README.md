@@ -5,6 +5,7 @@ The tutorial is available (here)[]
 
 ## Links
 
+- https://github.com/create-go-app/fiber-go-template
 - https://adeshg7.medium.com/vuejs-golang-a-rare-combination-53538b6fb918
 - https://github.com/adesgautam/Proton
 - https://www.freecodecamp.org/news/how-i-set-up-a-real-world-project-with-go-and-vue/
