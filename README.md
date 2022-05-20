@@ -7,6 +7,7 @@ The tutorial is available (here)[]
 
 - https://github.com/create-go-app/cli
 - https://github.com/create-go-app/fiber-go-template
+- https://dev.to/koddr/the-create-go-app-project-has-grown-to-v2-but-is-still-easier-better-faster-stronger-575j
 - https://adeshg7.medium.com/vuejs-golang-a-rare-combination-53538b6fb918
 - https://github.com/adesgautam/Proton
 - https://www.freecodecamp.org/news/how-i-set-up-a-real-world-project-with-go-and-vue/
