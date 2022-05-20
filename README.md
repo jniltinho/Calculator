@@ -22,3 +22,4 @@ The tutorial is available (here)[]
 - https://www.wrappixel.com/templates/xtreme-vuesax-admin-pro/#demos
 - https://www.wrappixel.com/templates/adminpro-vuetify-dashboard/?ref=33#demos
 - https://github.com/ColorlibHQ/AdminLTE
+- https://github.com/erdkse/adminlte-3-vue
