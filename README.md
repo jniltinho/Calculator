@@ -26,3 +26,4 @@ The tutorial is available (here)[]
 - https://escola.laravue.com.br/
 - https://jasonwatmore.com/post/2021/06/25/axios-http-post-request-examples
 - https://axios-http.com/docs/post_example
+- https://www.devmedia.com.br/consumindo-uma-api-com-vue-js-e-axios/42974
