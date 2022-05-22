@@ -24,3 +24,4 @@ The tutorial is available (here)[]
 - https://github.com/ColorlibHQ/AdminLTE
 - https://github.com/erdkse/adminlte-3-vue
 - https://escola.laravue.com.br/
+- https://jasonwatmore.com/post/2021/06/25/axios-http-post-request-examples
